@@ -11,7 +11,9 @@ The **"Google Store by Lilia – Ecommerce Google Merch"** dashboard in **Looker
 ---
 
 ### 🧱 **Structure**
-The dashboard is organized into **two pages**, with the first one featuring a variety of data visualizations, including scorecards, time series charts, funnels, tables, and heatmaps.
+The dashboard is organized into **two pages**, with the first one featuring a variety of data visualizations, including scorecards, time series charts, funnels, tables, and heatmaps. And the second one being a dashboard that visualizes the user journey through a sales funnel for an online store (Google Merch Shop). It focuses on the top five events in the funnel and breaks down performance by day of the week and other filters like device or country.
+
+
 
 ---
 
@@ -30,6 +32,7 @@ The dashboard is organized into **two pages**, with the first one featuring a va
 
 #### 3. **Ecommerce Funnel Chart**
 - Visualizes the user journey through key conversion steps (e.g., View Item → Add to Cart → Checkout → Purchase) with retention rates at each stage.
+- Second page: Offers a clear view of how users move through the purchasing funnel—from visiting the store to completing a transaction. It’s ideal for identifying drop-off points, weekly behavior patterns, and overall conversion effectiveness.
 
 #### 4. **Traffic Source Analysis**
 - Breaks down performance by **channel groupings** (Organic, Paid, Direct, Email, Social, etc.).
