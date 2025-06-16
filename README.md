@@ -6,6 +6,8 @@ You can find the Dashboard in this link:
 ### 🧭 **Dashboard Overview**
 The **"Google Store by Lilia – Ecommerce Google Merch"** dashboard in **Looker Studio** offers a comprehensive view of the ecommerce performance of the Google Merch Shop, based on data from **Google Analytics 4 (GA4)**. It focuses on tracking sessions, purchases, user behavior, revenue, and conversion efficiency across various dimensions like channels, devices, locations, and landing pages.
 
+📌 This dashboard enables quick performance monitoring, highlights top-performing channels and pages, and identifies opportunities to improve the ecommerce funnel.
+
 ---
 
 ### 🧱 **Structure**
@@ -79,6 +81,3 @@ The dashboard is organized into **two pages**, with the first one featuring a va
 ### 📌 **Summary**
 This dashboard is a **robust analytics tool** for ecommerce decision-makers. It highlights where value is being generated (channels, pages, devices) and where potential drop-offs occur in the conversion journey. It’s especially helpful for marketing teams and ecommerce managers focused on optimizing traffic sources and improving checkout performance.
 
----
-
-Would you like a **short executive summary** (e.g., for stakeholders), or a **more technical version** (for a data or analytics team)?
