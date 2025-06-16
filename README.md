@@ -1,5 +1,5 @@
 # GoogleStore DashBoard
-You can find the Dash board in this link:
+You can find the Dashboard in this link:
 
 [Google Store by Lilia](https://lookerstudio.google.com/reporting/0198c1f4-3fe6-4888-962e-07e1421acaa4)
 
